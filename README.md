@@ -7,6 +7,9 @@ pip install -r requirements.txt
 cd src && python generate_data.py
 python train.py && cd ..
 streamlit run src/app.py
+
+
+$ source venv/Scripts/activate
 ```
 
 ## Run with Docker
