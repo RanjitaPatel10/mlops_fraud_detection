@@ -91,4 +91,4 @@ if st.button("🔍 Predict — Is This Fraud?", use_container_width=True, type="
         st.error("⚠️ Model not found! Run: python src/train.py")
 
 st.markdown("---")
-st.markdown("*MLOps Syllabus — Deploy and Retrain ML Models on AWS | Suresh D R*")
+st.markdown("*MLOps Syllabus — Deploy and Retrain ML Models on AWS | Ranjita Patel*")
